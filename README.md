@@ -1,7 +1,7 @@
 
-<a href="Digital Trend"><img src="assets/img/scr.png" title="Digital Trend"></a>
+<img src="assets/img/scr.png" title="Digital Trend">
 
-# Digital Trend Website
+# <a href="https://mahmudul-hasan-bijoy.github.io/digital_trend/">Digital Trend Website</a>
 
 > Mutlipage Website
 > HTML5
