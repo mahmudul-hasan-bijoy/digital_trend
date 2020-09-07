@@ -1,7 +1,7 @@
 
-<a href="Digital Trend"><img src="assets/img/Screenshot_2020-09-07 Digital Trend.png" title="Digital Trend"></a>
+<a href="Digital Trend"><img src="assets/img/scr.png" title="Digital Trend"></a>
 
-# Repository Title Goes Here
+# Digital Trend Website
 
 > Mutlipage Website
 > HTML5
