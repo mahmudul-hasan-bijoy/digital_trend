@@ -1,4 +1,3 @@
-
 <img src="assets/img/scr.png" title="Digital Trend">
 
 # <a href="https://mahmudul-hasan-bijoy.github.io/digital_trend/" target="_blank">Digital Trend Website</a>
